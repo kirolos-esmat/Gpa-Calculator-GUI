@@ -1,1 +1,1 @@
-# Gpa-Calculator-GUI
+# Gpa-Calculator-GUI [Tkinter]
